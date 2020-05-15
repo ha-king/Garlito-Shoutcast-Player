@@ -1,0 +1,43 @@
+html {
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    background:#34495e !important;
+}
+h1 {
+    color:white;
+    text-align:center;
+    letter-spacing:5px;
+    font-weight:300; 
+    font-size:50px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka One', cursive;
+}
+
+p {
+    color:white;
+    font-weight:300; 
+    font-size:18px;  
+}
+p.lead {
+    letter-spacing:5px;
+}
+button.main {
+    margin-top:40px;
+    background:#2ecc71;
+    width:200px;
+    height:60px;
+    border-radius:30px; 
+    font-weight:bold;
+    border:0;
+    color:#34495e;
+    font-size:17px;
+}
+button.btn {
+    border-radius: 1.25rem;
+}
+.flip {
+    transform: scale(-1, 1);
+    display: inline-block;
+}
